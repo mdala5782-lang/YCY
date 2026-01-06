@@ -1,0 +1,9 @@
+# sys-monitor
+./collector.go:9:11: undefined: GetCPUUsage
+./collector.go:12:11: undefined: GetMemoryUsage
+./collector.go:15:12: undefined: GetDiskUsage
+# sys-monitor
+./collector.go:9:11: undefined: GetCPUUsage
+./collector.go:12:11: undefined: GetMemoryUsage
+./collector.go:15:12: undefined: GetDiskUsage
+signal: killed
